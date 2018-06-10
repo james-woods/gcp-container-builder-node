@@ -3,7 +3,7 @@
     "name": "Michal Hruby"
   },
   "dependencies": {
-    "@google-cloud/common": "^0.13.0",
+    "@google-cloud/common": "^0.19.2",
     "async": "^2.0.1",
     "extend": "^3.0.0"
   },
@@ -21,10 +21,10 @@
   "name": "gcp-container-builder",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mhr3/gcp-container-builder-node.git"
+    "url": "git+https://github.com/james-woods/gcp-container-builder-node.git"
   },
   "scripts": {
     "test": "mocha test/*.js"
   },
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
